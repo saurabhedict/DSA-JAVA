@@ -76,7 +76,7 @@ class Solution {
                 else{
                     req = pro/mid + 1; 
                 }
-                 if(stores >= req){
+                if(stores >= req){
                     stores -= req;
                     sum -= nums[i];
                     pro = 0;
