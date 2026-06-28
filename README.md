@@ -14,6 +14,7 @@ Learning DSA in java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Learning DSA in java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
