@@ -54,4 +54,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/saurabhedict/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
