@@ -37,6 +37,7 @@ Learning DSA in java.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saurabhedict/DSA-JAVA/tree/master/0069-sqrtx) |
 ## Sliding Window
 |  |
@@ -68,4 +69,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
