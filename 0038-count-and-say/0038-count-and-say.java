@@ -2,7 +2,8 @@ class Solution {
     public String countAndSay(int n) {
        String s =  "1";
        if(n == 1) return s;
-       return CAS(n, s, 1);
+       String str =  CAS(n, s, 1);
+       return str;
     }
     public String CAS(int n, String s, int x){
         if(x == n) return s;
@@ -10,8 +11,8 @@ class Solution {
         return CAS(n, s, x+1);
     }
     public String Sb(String s){
-        StringBuilder st = new StringBuilder(s);
-        int n = s.length();
+        StringBuilder st = new StringBuilder(s+"@");
+        int n = st.length();
         int i = 0;
         int j = i;
         String str = "";
@@ -28,9 +29,6 @@ class Solution {
                   count = 0;
                 }
         }
-         str+=count;
-         str+=st.charAt(i);
-         i = j;
        return str;
     }
     
