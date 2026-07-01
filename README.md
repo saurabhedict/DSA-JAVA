@@ -8,6 +8,7 @@ Learning DSA in java.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/saurabhedict/DSA-JAVA/tree/master/0704-binary-search) |
@@ -69,8 +70,13 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
