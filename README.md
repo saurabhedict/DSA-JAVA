@@ -22,6 +22,7 @@ Learning DSA in java.
 | ------- |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +84,5 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
