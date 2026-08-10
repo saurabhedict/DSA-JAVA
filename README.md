@@ -66,6 +66,7 @@ Learning DSA in java.
 | [0008-string-to-integer-atoi](https://github.com/saurabhedict/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saurabhedict/DSA-JAVA/tree/master/0038-count-and-say) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +96,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
