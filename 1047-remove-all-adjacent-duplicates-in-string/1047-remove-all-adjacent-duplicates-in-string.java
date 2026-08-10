@@ -32,11 +32,41 @@
 
 
 
+// class Solution {
+//     public String removeDuplicates(String s) {
+//         int n = s.length()-1;
+//         Stack<Character> st = new Stack<>();
+//         String ans = "";
+//         while(n>=0){
+//             char ch = s.charAt(n);
+//             if(st.isEmpty()){
+//                 st.push(ch);
+//             }
+//             else if(st.peek() != ch){
+//                 st.push(ch);
+//             }
+//             else {
+//                 st.pop();
+//             }
+//             n--;
+//         }
+
+
+//         while(!st.isEmpty()){
+//             ans += st.pop();
+//         }
+
+//         return ans;
+//     }
+// }
+
+
+
 class Solution {
     public String removeDuplicates(String s) {
         int n = s.length()-1;
         Stack<Character> st = new Stack<>();
-        String ans = "";
+        StringBuilder sb = new StringBuilder();
         while(n>=0){
             char ch = s.charAt(n);
             if(st.isEmpty()){
@@ -53,9 +83,9 @@ class Solution {
 
 
         while(!st.isEmpty()){
-            ans += st.pop();
+           sb.append(st.pop());
         }
 
-        return ans;
+        return sb.toString();
     }
 }
