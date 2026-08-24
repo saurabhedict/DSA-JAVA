@@ -68,10 +68,12 @@ Learning DSA in java.
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saurabhedict/DSA-JAVA/tree/master/0038-count-and-say) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
