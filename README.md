@@ -9,6 +9,7 @@ Learning DSA in java.
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/saurabhedict/DSA-JAVA/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ Learning DSA in java.
 | ------- |
 | [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saurabhedict/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Learning DSA in java.
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Floyd's Cycle Finding Algorithm
