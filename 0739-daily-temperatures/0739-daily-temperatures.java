@@ -65,17 +65,13 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         int i = n-1;
         while(i>=0){
-            if(st.isEmpty()){
-               st.push(i);
-               ans[i] = 0;
-               i--;
-            }
 
             while(i>=0 && !st.isEmpty() && arr[i] >= arr[st.peek()]){
                 st.pop();
-                ans[i] = 0;
             }
+
             if(!st.isEmpty()) ans[i] = st.peek() - i;
+            
             st.push(i);
             i--;
             
