@@ -18,38 +18,70 @@
 
 
 
-class Solution {
-    class Pair {
-    int val;
-    int idx;
+// class Solution {
+//     class Pair {
+//     int val;
+//     int idx;
 
-    Pair(int val, int idx) {
-        this.val = val;
-        this.idx = idx;
-    }
-    }
+//     Pair(int val, int idx) {
+//         this.val = val;
+//         this.idx = idx;
+//     }
+//     }
+//     public int[] dailyTemperatures(int[] arr) {
+//         int n = arr.length;
+//         int[] ans = new int[n];
+
+//         Stack<Pair> st = new Stack<>();
+//         int i = 0;
+//         while(i<n){
+//             if(st.isEmpty()){
+//                 st.push(new Pair(arr[i], i));
+//                 i++;
+//             }
+//             while(i<n && !st.isEmpty() && st.peek().val < arr[i]){
+//               Pair x = st.pop();
+//               ans[x.idx] = i-x.idx;
+//               if(!st.isEmpty() && st.peek().val >= arr[i]) st.push(new Pair(arr[i], i));
+//             }
+//             if(i<n) st.push(new Pair(arr[i], i));
+//             i++;
+   
+//         }
+        
+//         return ans;
+//     }
+// } //O(n)
+
+
+
+
+
+class Solution {
     public int[] dailyTemperatures(int[] arr) {
         int n = arr.length;
         int[] ans = new int[n];
 
-        Stack<Pair> st = new Stack<>();
-        int i = 0;
-        while(i<n){
+        Stack<Integer> st = new Stack<>();
+        int i = n-1;
+        while(i>=0){
             if(st.isEmpty()){
-                st.push(new Pair(arr[i], i));
-                i++;
+               st.push(i);
+               ans[i] = 0;
+               i--;
             }
-            while(i<n && !st.isEmpty() && st.peek().val < arr[i]){
-              Pair x = st.pop();
-              ans[x.idx] = i-x.idx;
-              if(!st.isEmpty() && st.peek().val >= arr[i])st.push(new Pair(arr[i], i));
-            }
-            if(i<n)st.push(new Pair(arr[i], i));
-            i++;
 
-                 
+            while(i>=0 && !st.isEmpty() && arr[i] >= arr[st.peek()]){
+                st.pop();
+                ans[i] = 0;
+            }
+            if(!st.isEmpty()) ans[i] = st.peek() - i;
+            st.push(i);
+            i--;
+            
+   
         }
         
         return ans;
     }
-}
+} //O(n)
