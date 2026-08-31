@@ -20,6 +20,7 @@ Learning DSA in java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/saurabhedict/DSA-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
@@ -61,6 +62,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Learning DSA in java.
 | ------- |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,4 +184,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
