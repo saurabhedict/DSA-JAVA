@@ -9,6 +9,7 @@ Learning DSA in java.
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -81,6 +82,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/saurabhedict/DSA-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
@@ -113,6 +115,7 @@ Learning DSA in java.
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
@@ -154,6 +157,7 @@ Learning DSA in java.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
@@ -166,4 +170,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
