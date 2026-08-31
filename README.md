@@ -13,6 +13,7 @@ Learning DSA in java.
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/saurabhedict/DSA-JAVA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
@@ -122,6 +123,7 @@ Learning DSA in java.
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
@@ -165,6 +167,7 @@ Learning DSA in java.
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/saurabhedict/DSA-JAVA/tree/master/0907-sum-of-subarray-minimums) |
