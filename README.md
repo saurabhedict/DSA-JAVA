@@ -97,6 +97,7 @@ Learning DSA in java.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
@@ -107,6 +108,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
