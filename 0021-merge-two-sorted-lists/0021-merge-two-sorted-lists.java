@@ -80,58 +80,95 @@
 
 
 
+// class Solution {
+//     public ListNode mergeTwoLists(ListNode h1, ListNode h2) {
+//         if(h1 == null) return h2; //optimize
+//         if(h2 == null) return h1; //optimize
+//         ListNode ans = null;
+//         ListNode temp2 = ans;
+        
+//         while(h1 != null && h2 != null){ //now no problem with null pointer exception
+
+//             if(h1.val <= h2.val){
+//              if(ans == null){ 
+//                 ListNode temp = h1;
+//                 h1 = h1.next;
+//                 temp.next = null;
+//                 ans = temp;
+//                 temp2 = ans;
+//              }
+//              else {
+//                 ListNode temp = h1;
+//                 h1 = h1.next;
+//                 temp.next = null;
+//                 temp2.next = temp;
+//                 temp2 = temp2.next;
+//              }
+//             }
+
+//             else{
+//                 if(ans == null) {
+//                     ListNode temp = h2;
+//                     h2 = h2.next;
+//                     temp.next = null;
+//                     ans = temp;
+//                     temp2 =  ans;
+//                 }
+//                 else {
+//                     ListNode temp = h2;
+//                     h2 = h2.next;
+//                     temp.next = null;
+//                     temp2.next = temp;
+//                     temp2 = temp2.next;
+//                 }
+//              }
+//             }
+
+//             if(h1 == null){
+//                 temp2.next = h2;
+//                 return ans;
+//             }
+//             if(h2 == null){
+//                 temp2.next = h1;
+//                 return ans;
+//             }
+//          return ans;
+//     }
+// }//worst solution : iterative way
+
+
+
+
+
 class Solution {
     public ListNode mergeTwoLists(ListNode h1, ListNode h2) {
         if(h1 == null) return h2; //optimize
         if(h2 == null) return h1; //optimize
-        ListNode ans = null;
-        ListNode temp2 = ans;
+        ListNode ans = new ListNode(-1);
+        ListNode temp = ans;
         
-        while(h1 != null && h2 != null){
+        while(h1 != null && h2 != null){ 
 
             if(h1.val <= h2.val){
-             if(ans == null){ 
-                ListNode temp = h1;
+                temp.next = h1;
                 h1 = h1.next;
-                temp.next = null;
-                ans = temp;
-                temp2 = ans;
-             }
-             else {
-                ListNode temp = h1;
-                h1 = h1.next;
-                temp.next = null;
-                temp2.next = temp;
-                temp2 = temp2.next;
-             }
             }
 
             else{
-                if(ans == null) {
-                    ListNode temp = h2;
-                    h2 = h2.next;
-                    temp.next = null;
-                    ans = temp;
-                    temp2 =  ans;
-                }
-                else {
-                    ListNode temp = h2;
-                    h2 = h2.next;
-                    temp.next = null;
-                    temp2.next = temp;
-                    temp2 = temp2.next;
-                }
+                temp.next = h2;
+                h2 = h2.next;
              }
+             temp =  temp.next;
             }
 
             if(h1 == null){
-                temp2.next = h2;
-                return ans;
+                temp.next = h2;
+                return ans.next;
             }
             if(h2 == null){
-                temp2.next = h1;
-                return ans;
+                temp.next = h1;
+                return ans.next;
             }
-         return ans;
+         return ans.next;
     }
 }//worst solution : iterative way
