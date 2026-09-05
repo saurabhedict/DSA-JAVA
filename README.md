@@ -31,6 +31,7 @@ Learning DSA in java.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@ Learning DSA in java.
 | [0021-merge-two-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
@@ -115,6 +117,7 @@ Learning DSA in java.
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -131,6 +134,7 @@ Learning DSA in java.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
