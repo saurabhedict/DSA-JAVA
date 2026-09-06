@@ -15,8 +15,8 @@ class Solution {
       while(!heap.isEmpty()){
         temp.next = heap.poll();
         temp = temp.next;
-        temp.next  = null;
       }
+      temp.next  = null;
       return dummy.next;
     } 
 }
