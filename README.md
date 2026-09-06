@@ -106,6 +106,7 @@ Learning DSA in java.
 | [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Learning DSA in java.
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Learning DSA in java.
 | [0946-validate-stack-sequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Learning DSA in java.
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/saurabhedict/DSA-JAVA/tree/master/0907-sum-of-subarray-minimums) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
