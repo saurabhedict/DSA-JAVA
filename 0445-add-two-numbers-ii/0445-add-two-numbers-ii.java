@@ -10,7 +10,7 @@ class Solution {
         }
         return prev;
     }
-    public void fillStack(ListNode head, Stack st){
+    public void fillStack(ListNode head, Stack<ListNode> st){
          ListNode temp = head;
          while(temp != null){
             st.push(temp);
