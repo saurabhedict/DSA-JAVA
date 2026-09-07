@@ -114,4 +114,4 @@ class Solution {
         }
         return ArrayToList(arr);
     }
-}
+} //Most Disgusting Code ever : but logic is simple : List -> Array -> prefixSum -> findDuplicates -> Remove all Duplicates -> List -> Handle edge cases -> return 
