@@ -119,7 +119,7 @@ class Solution {
             while(temp != head){
                 temp = temp.next;
                 sum += temp.val;
-                if(temp != head) map.remove(sum);
+                if(temp != head) map.remove(sum); //optional condition
             }
             start.next = head.next;
             head = head.next;
