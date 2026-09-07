@@ -57,6 +57,7 @@ Learning DSA in java.
 | [0050-powx-n](https://github.com/saurabhedict/DSA-JAVA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saurabhedict/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0445-add-two-numbers-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Learning DSA in java.
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -146,6 +148,7 @@ Learning DSA in java.
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
