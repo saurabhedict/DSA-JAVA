@@ -146,6 +146,7 @@ Learning DSA in java.
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
@@ -167,16 +168,19 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
