@@ -58,16 +58,16 @@
 
 
 class Solution {
-    public void PreOrder(TreeNode root, List<Integer> ans, int level){
+    public void ReversePreOrder(TreeNode root, List<Integer> ans, int level){
      if(root == null) return;
      if(ans.size()< level) ans.add(root.val);
-     PreOrder(root.right, ans, level+1);
-     PreOrder(root.left, ans, level+1);
+     ReversePreOrder(root.right, ans, level+1);
+     ReversePreOrder(root.left, ans, level+1);
     }
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         if(root == null) return ans;
-        PreOrder(root, ans, 1);
+        ReversePreOrder(root, ans, 1);
         return ans;
     }
 }
