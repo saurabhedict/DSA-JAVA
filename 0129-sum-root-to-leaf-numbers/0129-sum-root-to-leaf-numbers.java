@@ -58,4 +58,4 @@ class Solution {
       int ans = preOrder(root, 0);
       return ans;
     }
-}
+} //imp revise it
