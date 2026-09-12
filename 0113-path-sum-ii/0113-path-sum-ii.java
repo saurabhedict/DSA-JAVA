@@ -18,10 +18,8 @@ class Solution {
         if(root == null) return;
         targetSum = targetSum - root.val;
         temp.add(root.val);
-        if(targetSum == 0 && root.left == null && root.right == null){
+        if(targetSum == 0 && (root.left == null && root.right == null)){
            ans.add(new ArrayList<>(temp));
-           temp.remove(temp.size() - 1);
-           return;
         }
        PreOrder(root.left, targetSum, ans, temp);
        PreOrder(root.right, targetSum, ans, temp);
