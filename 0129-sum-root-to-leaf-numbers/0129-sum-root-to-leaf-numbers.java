@@ -13,21 +13,49 @@
  *     }
  * }
  */
+
+
+// class Solution {
+//     public void preOrder(TreeNode root, int sum, ArrayList<Integer> ans){
+//         sum += root.val;
+//         if(root.left == null && root.right == null) ans.add(sum);
+//         if(root.left != null) preOrder(root.left, sum*10, ans);
+//         if(root.right != null) preOrder(root.right, sum*10, ans);
+//     }
+//     public int sumNumbers(TreeNode root) {
+//       if(root.left == null && root.right == null) return root.val;
+//       ArrayList<Integer> ans = new ArrayList<>();
+//       preOrder(root, 0, ans);
+//       int sum = 0;
+//       for(int i = 0; i<ans.size(); i++){
+//          sum += ans.get(i);
+//       }
+//       return sum;
+//     }
+// }
+
+
+
+
 class Solution {
-    public void preOrder(TreeNode root, int sum, ArrayList<Integer> ans){
-        sum += root.val;
-        if(root.left == null && root.right == null) ans.add(sum);
-        if(root.left != null) preOrder(root.left, sum*10, ans);
-        if(root.right != null) preOrder(root.right, sum*10, ans);
+    public int preOrder(TreeNode root, int sum){
+        sum = sum*10 + root.val;
+        if(root.left == null && root.right == null){
+            return sum;
+        }
+        int left  = 0;
+        int right = 0;
+        if(root.left != null){
+           left  =   preOrder(root.left, sum);
+        }
+        if(root.right != null){
+            right = preOrder(root.right, sum);
+        }
+        return left + right;
     }
     public int sumNumbers(TreeNode root) {
       if(root.left == null && root.right == null) return root.val;
-      ArrayList<Integer> ans = new ArrayList<>();
-      preOrder(root, 0, ans);
-      int sum = 0;
-      for(int i = 0; i<ans.size(); i++){
-         sum += ans.get(i);
-      }
-      return sum;
+      int ans = preOrder(root, 0);
+      return ans;
     }
 }
