@@ -82,8 +82,8 @@ class Solution {
         int right = endIn-i;
 
         TreeNode root = new TreeNode(rootVal);
-        root.left = solve(postorder, inorder, startIn, i-1, startPo, startPo+left-1);
-        root.right = solve(postorder, inorder, i+1, endIn, startPo+left, endPo-1);
+        root.left = solve(postorder, inorder, startIn, i-1, startPo, startPo+left-1); //very imp
+        root.right = solve(postorder, inorder, i+1, endIn, startPo+left, endPo-1); //very imp : endPo-1
         return root;
     }
     public TreeNode buildTree(int[] inorder, int[] postorder) {
