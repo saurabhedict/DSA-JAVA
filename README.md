@@ -12,6 +12,7 @@ Learning DSA in java.
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
@@ -139,6 +140,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/saurabhedict/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -178,6 +180,7 @@ Learning DSA in java.
 | [0102-binary-tree-level-order-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0113-path-sum-ii) |
@@ -214,6 +217,7 @@ Learning DSA in java.
 | [0102-binary-tree-level-order-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0113-path-sum-ii) |
@@ -274,6 +278,7 @@ Learning DSA in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
