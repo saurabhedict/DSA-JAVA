@@ -193,6 +193,7 @@ Learning DSA in java.
 | [0226-invert-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Learning DSA in java.
 | [0226-invert-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Learning DSA in java.
 | [0226-invert-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -309,4 +312,12 @@ Learning DSA in java.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
