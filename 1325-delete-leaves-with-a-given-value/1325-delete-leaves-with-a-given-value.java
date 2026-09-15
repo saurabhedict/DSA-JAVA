@@ -13,10 +13,10 @@
  *     }
  * }
  */
+ 
 class Solution {
     public boolean solve(TreeNode root, int target){
         if(root == null) return false;
-        boolean flag = false;
         if((root.left == null && root.right == null) && root.val == target) return true;
         boolean x = solve(root.left, target);
         if(x) {
