@@ -199,6 +199,7 @@ Learning DSA in java.
 | [0437-path-sum-iii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -222,6 +223,7 @@ Learning DSA in java.
 | [0437-path-sum-iii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -248,6 +250,7 @@ Learning DSA in java.
 | [0437-path-sum-iii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Lifting
 |  |
