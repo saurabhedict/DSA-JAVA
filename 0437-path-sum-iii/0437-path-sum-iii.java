@@ -15,12 +15,14 @@
  */
 class Solution {
     public int solve(TreeNode root, long targetSum){
-       if(root == null) return 0;
+       int count = 0;
+       if(root == null) return count;
        targetSum = targetSum-root.val;
-        int count = 0;
        if(targetSum == 0) count++;
+
        int left = solve(root.left, targetSum);
        int right = solve(root.right, targetSum);
+
        count = count + left + right;
        return count;
     }
@@ -32,4 +34,5 @@ class Solution {
        return (countFromRoot + countFromLeft + countFromRight);
 
     }
-}
+} //not a good solution in wors case TC : O(N2) and SC : O(N)
+//we can solve it using O(N) TC and O(N) SC : Using hashmap, and prefixSum
