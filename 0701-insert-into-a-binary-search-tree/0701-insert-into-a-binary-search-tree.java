@@ -13,24 +13,52 @@
  *     }
  * }
  */
-class Solution {
-    public TreeNode insertIntoBST(TreeNode root, int val) {
-        if(root == null) return new TreeNode(val);
 
-        if(root.val < val) {
+
+// class Solution {
+//     public TreeNode insertIntoBST(TreeNode root, int val) {
+//         if(root == null) return new TreeNode(val);
+
+//         if(root.val < val) {
+//             if(root.right == null){
+//                 root.right = new TreeNode(val);
+//                 return root;
+//             }
+//             insertIntoBST(root.right, val);
+//         }
+//         else{
+//             if(root.left == null){
+//                 root.left = new TreeNode(val);
+//                 return root;
+//             }
+//             insertIntoBST(root.left, val);
+//         }
+//         return root;
+//     }
+// }  //humesh leaf node bna ke hi lgao vo hmesha kam krega
+
+
+class Solution {
+    public void solve(TreeNode root, int val){
+        if(root == null) return;
+        if(root.val < val){
             if(root.right == null){
                 root.right = new TreeNode(val);
-                return root;
+                return;
             }
-            insertIntoBST(root.right, val);
+            solve(root.right, val);
         }
         else{
             if(root.left == null){
                 root.left = new TreeNode(val);
-                return root;
+                return;
             }
-            insertIntoBST(root.left, val);
+            solve(root.left, val);
         }
+    }
+    public TreeNode insertIntoBST(TreeNode root, int val) {
+        if(root == null) return new TreeNode(val);
+        solve(root, val);
         return root;
     }
 }  //humesh leaf node bna ke hi lgao vo hmesha kam krega
