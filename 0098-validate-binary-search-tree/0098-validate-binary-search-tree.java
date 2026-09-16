@@ -108,4 +108,4 @@ class Solution {
        min(root);
        return flag;
     }
-}
+} //Same approach we can use in diameter of binary tree
