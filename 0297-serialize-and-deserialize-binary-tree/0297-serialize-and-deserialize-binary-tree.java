@@ -33,6 +33,7 @@ public class Codec {
         TreeNode root = null;
         int i = 0;
         int num = 0;
+
         if(data.charAt(i) != 'N'){
             int sign = 1;
 
@@ -53,22 +54,29 @@ public class Codec {
         }
         else i += 2;
 
+
         while(!q.isEmpty()){
+
            TreeNode temp = q.remove();
+
             for(int k = 0; k<2; k++) {
 
-             if(data.charAt(i) != 'N'){
+            if(data.charAt(i) != 'N'){
                 int sign = 1;
-                if(data.charAt(i) == '-') {
+
+              if(data.charAt(i) == '-') {
                 sign = -1;
                 i++;
-                }
+              }
+
                 while(data.charAt(i) != ','){
                    num = num*10 + (data.charAt(i) - '0');
                    i++;
                 }
+
                 num = num * sign;
                 i++;
+
                 TreeNode x = new TreeNode(num);
                 if(k == 0) temp.left = x;
                 if(k == 1)  temp.right = x;
@@ -81,7 +89,7 @@ public class Codec {
         }
         return root;
     }
-}
+} //imp do one more time
 
 // Your Codec object will be instantiated and called as such:
 // Codec ser = new Codec();
