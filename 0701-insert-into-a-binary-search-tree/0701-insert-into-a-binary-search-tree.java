@@ -33,4 +33,4 @@ class Solution {
         }
         return root;
     }
-}
+}  //humesh leaf node bna ke hi lgao vo hmesha kam krega
