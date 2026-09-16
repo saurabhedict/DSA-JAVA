@@ -25,4 +25,4 @@ class Solution {
         fillArray(root, list);
         return list.get(k-1);
     }
-}
+} //Inorder of BST is always Sorted : core idea
