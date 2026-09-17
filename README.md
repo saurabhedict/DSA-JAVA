@@ -207,6 +207,7 @@ Learning DSA in java.
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -236,6 +237,7 @@ Learning DSA in java.
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -270,6 +272,7 @@ Learning DSA in java.
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Lifting
@@ -372,4 +375,5 @@ Learning DSA in java.
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
