@@ -25,7 +25,7 @@
 //         bstToGst(root.left);
 //         return root;
 //     }
-// }
+// }//TC : O(n), SC : Auxillary space : O(h)
 
 
 
@@ -45,4 +45,4 @@ class Solution {
        }
        return root;
     }
-}
+} //TC : O(n), SC : O(n)
