@@ -51,7 +51,7 @@
 //         int[] arr = toArray(list);
 //         return solve(arr, 0, arr.length-1);
 //     }
-// }
+// } //new tree created
 
 
 
@@ -95,4 +95,4 @@ class Solution {
         TreeNode[] arr = toArray(list);
         return solve(arr, 0, arr.length-1);
     }
-}
+} //existing tree modified
