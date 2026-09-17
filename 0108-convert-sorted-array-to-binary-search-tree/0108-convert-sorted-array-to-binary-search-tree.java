@@ -30,4 +30,4 @@ class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
         return solve(nums, 0, nums.length-1);
     }
-}
+} //practice once : similar to make tree using preorder and inorder traversal like questions
