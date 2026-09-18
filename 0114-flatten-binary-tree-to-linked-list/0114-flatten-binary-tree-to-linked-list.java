@@ -73,7 +73,6 @@
 
 class Solution {
     public TreeNode solve(TreeNode root){
-    //  if(root == null) return null;
      if(root.left == null && root.right == null) return root;
      if(root.left == null) {
         solve(root.right);
@@ -87,7 +86,7 @@ class Solution {
 
      TreeNode left = solve(root.left);
      TreeNode right = solve(root.right);
-     root.left = null;
+     root.left = null; //imp
      TreeNode temp = left;
      while(temp.right != null){
         temp = temp.right;
