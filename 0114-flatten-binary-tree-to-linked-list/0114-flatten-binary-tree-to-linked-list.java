@@ -34,12 +34,49 @@
 // }
 
 
+// class Solution {
+//     public TreeNode solve(TreeNode root){
+//      if(root == null) return null;
+//      if(root.left == null && root.right == null) return root;
+//      if(root.left == null) {
+//         root.right = solve(root.right);
+//         return root;
+//      }
+//      if(root.right == null){
+//         root.right = solve(root.left);
+//         root.left = null;
+//         return root;
+//      }
+
+//      TreeNode left = root.left;
+//      TreeNode right = root.right;
+//      root.left = null;
+//      root.right = null;
+//      left = solve(left);
+//      right = solve(right);
+//      TreeNode temp = left;
+//      while(temp.right != null){
+//         temp = temp.right;
+//      }
+//      root.right = left;
+//      temp.right = right;
+//      return root;
+       
+//     }
+//     public void flatten(TreeNode root) {
+//         if(root == null) return;
+//         solve(root);
+//     }
+// }
+
+
+
 class Solution {
     public TreeNode solve(TreeNode root){
      if(root == null) return null;
      if(root.left == null && root.right == null) return root;
      if(root.left == null) {
-        root.right = solve(root.right);
+        solve(root.right);
         return root;
      }
      if(root.right == null){
@@ -48,12 +85,9 @@ class Solution {
         return root;
      }
 
-     TreeNode left = root.left;
-     TreeNode right = root.right;
+     TreeNode left = solve(root.left);
+     TreeNode right = solve(root.right);
      root.left = null;
-     root.right = null;
-     left = solve(left);
-     right = solve(right);
      TreeNode temp = left;
      while(temp.right != null){
         temp = temp.right;
