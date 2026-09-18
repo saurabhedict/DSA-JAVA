@@ -22,7 +22,7 @@ class Solution {
         return temp;
     }
     public TreeNode ParentOfPred(TreeNode root, TreeNode pred){
-        if(root.left == pred || root.right == pred) return root;
+        if(root.left == pred) return root;
         TreeNode temp = root.left;
         while(temp.right != pred){
             temp = temp.right;
@@ -43,7 +43,6 @@ class Solution {
             else return root.left;
            }
            
-
            //case 3 : has 2 child
            else{
               TreeNode pred = predecessor(root);
