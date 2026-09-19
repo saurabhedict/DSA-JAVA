@@ -10,6 +10,7 @@ Learning DSA in java.
 | [0014-longest-common-prefix](https://github.com/saurabhedict/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
@@ -77,6 +78,7 @@ Learning DSA in java.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -99,6 +101,7 @@ Learning DSA in java.
 | [0014-longest-common-prefix](https://github.com/saurabhedict/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saurabhedict/DSA-JAVA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
@@ -159,6 +162,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/saurabhedict/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
