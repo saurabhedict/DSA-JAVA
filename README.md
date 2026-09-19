@@ -7,6 +7,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/saurabhedict/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
@@ -92,6 +93,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saurabhedict/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/saurabhedict/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saurabhedict/DSA-JAVA/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -411,4 +413,8 @@ Learning DSA in java.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saurabhedict/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
