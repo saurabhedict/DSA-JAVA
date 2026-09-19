@@ -10,7 +10,10 @@ class Solution {
         int count = 0;
         for(String key : words){
             String rev = reverse(key);
-            if(set.contains(rev)) count++;
+            if(set.contains(rev)){
+                count++;
+                set.remove(rev);
+            }
             else set.add(key);
         }
         return count;
