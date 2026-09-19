@@ -12,7 +12,7 @@ class Solution {
             String rev = reverse(key);
             if(set.contains(rev)){
                 count++;
-                set.remove(rev);
+                set.remove(rev); //understand why : not imp here but for some test cases it needed
             }
             else set.add(key);
         }
