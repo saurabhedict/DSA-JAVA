@@ -19,6 +19,7 @@ Learning DSA in java.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
@@ -81,6 +82,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -170,6 +172,7 @@ Learning DSA in java.
 | [0138-copy-list-with-random-pointer](https://github.com/saurabhedict/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -375,6 +378,7 @@ Learning DSA in java.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
@@ -433,5 +437,10 @@ Learning DSA in java.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saurabhedict/DSA-JAVA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
