@@ -15,6 +15,7 @@ Learning DSA in java.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhedict/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
@@ -71,6 +72,7 @@ Learning DSA in java.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Heap (Priority Queue)
@@ -152,6 +154,7 @@ Learning DSA in java.
 | [0138-copy-list-with-random-pointer](https://github.com/saurabhedict/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Stack
 |  |
