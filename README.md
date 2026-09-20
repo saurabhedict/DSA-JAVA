@@ -27,6 +27,7 @@ Learning DSA in java.
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/saurabhedict/DSA-JAVA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -160,6 +161,7 @@ Learning DSA in java.
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -178,6 +180,7 @@ Learning DSA in java.
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saurabhedict/DSA-JAVA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -357,6 +360,7 @@ Learning DSA in java.
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -421,6 +425,7 @@ Learning DSA in java.
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
