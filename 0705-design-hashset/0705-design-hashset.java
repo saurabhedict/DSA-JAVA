@@ -42,7 +42,7 @@
     }
     
     Node[] table;
-    int size = 100; //you can make any size, the more size : less collision handling  and less searching time.
+    int size = 1000; //you can make any size, the more size : less collision handling  and less searching time.
     //the less size : more collision handling and more searching time
 
     public int hash(int key){
