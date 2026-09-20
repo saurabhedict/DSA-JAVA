@@ -6,10 +6,11 @@ class Solution {
             return ans;
         }
         if(nums.length == 2){
-            if(nums[0] != nums[1])
-            ans.add(nums[0]);
-            ans.add(nums[1]);
-            return ans;
+            if(nums[0] != nums[1]){
+                ans.add(nums[0]);
+                ans.add(nums[1]);
+                return ans;
+            }
         }
         HashMap<Integer, Integer> map = new HashMap<>();
         HashSet<Integer> set = new HashSet<>();
