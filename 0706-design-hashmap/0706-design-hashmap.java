@@ -52,7 +52,7 @@ class MyHashMap {
         }
     }
     Node[] table;
-    int size = 1; 
+    int size = 1000000; 
 
     public MyHashMap() {
         table = new Node[size];
