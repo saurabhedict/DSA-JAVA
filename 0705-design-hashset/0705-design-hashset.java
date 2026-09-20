@@ -42,7 +42,7 @@
     }
     
     Node[] table;
-    int size = 10;
+    int size = 10000;
 
     public int hash(int key){
         return key%size;
