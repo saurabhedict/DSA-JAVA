@@ -42,6 +42,7 @@ Learning DSA in java.
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saurabhedict/DSA-JAVA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -92,6 +93,7 @@ Learning DSA in java.
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Learning DSA in java.
 | [0143-reorder-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -187,6 +190,7 @@ Learning DSA in java.
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saurabhedict/DSA-JAVA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -460,4 +464,8 @@ Learning DSA in java.
 | ------- |
 | [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
