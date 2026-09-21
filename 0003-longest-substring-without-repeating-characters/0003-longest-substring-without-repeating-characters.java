@@ -37,16 +37,9 @@ class Solution {
         while(j<s.length()){
             char ch = s.charAt(j);
             if(map.containsKey(ch)){
-                if(i > map.get(ch)){
-                    map.put(ch, j);
-                    max = Math.max(max, j-i);
-                }
-                else{
-                max = Math.max(max, j-i);
-                i = map.get(ch) + 1;
-                //map.remove(ch);
+                if(i <= map.get(ch))  i = map.get(ch) + 1;
                 map.put(ch, j);
-                }
+                max = Math.max(max, j-i+1);
             }
             else {
                 map.put(ch, j);
