@@ -82,6 +82,7 @@ Learning DSA in java.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saurabhedict/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ Learning DSA in java.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saurabhedict/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/saurabhedict/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/saurabhedict/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/saurabhedict/DSA-JAVA/tree/master/0022-generate-parentheses) |
@@ -176,6 +178,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saurabhedict/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
