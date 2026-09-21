@@ -28,7 +28,7 @@
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        
+        if(s.equals("")) return 0;
         int max = Integer.MIN_VALUE;
         HashMap<Character, Integer> map = new HashMap<>();
         
@@ -41,7 +41,6 @@ class Solution {
             max = Math.max(max, j-i+1);
             j++;
         }
-        max = Math.max(max, j-i);
         return max;
     }
 } 
