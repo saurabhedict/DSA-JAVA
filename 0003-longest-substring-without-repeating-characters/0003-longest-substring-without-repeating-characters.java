@@ -36,9 +36,7 @@ class Solution {
         int j = i; //sliding window
         while(j<s.length()){
             char ch = s.charAt(j);
-            if(map.containsKey(ch)){
-                if(i <= map.get(ch))  i = map.get(ch) + 1;
-            }
+            if(map.containsKey(ch) && i <= map.get(ch)) i = map.get(ch) + 1;
             map.put(ch, j);
             max = Math.max(max, j-i+1);
             j++;
