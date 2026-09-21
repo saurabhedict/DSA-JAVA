@@ -26,6 +26,42 @@
 
 
 
+// class Solution {
+//     public int lengthOfLongestSubstring(String s) {
+        
+//         int max = Integer.MIN_VALUE;
+//         HashMap<Character, Integer> map = new HashMap<>();
+        
+//         int i = 0;
+//         int j = i;
+//         while(j<s.length()){
+//             char ch = s.charAt(j);
+//             if(map.containsKey(ch)){
+//                 if(i > map.get(ch)){
+//                     map.put(ch, j);
+//                     max = Math.max(max, j-i);
+//                 }
+//                 else{
+//                 max = Math.max(max, j-i);
+//                 i = map.get(ch) + 1;
+//                 map.remove(ch);
+//                 map.put(ch, j);
+//                 }
+//             }
+//             else {
+//                 map.put(ch, j);
+//                 max = Math.max(max, j-i+1);
+//             }
+//             j++;
+//         }
+//         max = Math.max(max, j-i);
+//         return max;
+//     }
+// } 
+
+
+
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
