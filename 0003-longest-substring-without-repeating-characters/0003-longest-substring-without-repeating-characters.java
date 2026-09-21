@@ -33,7 +33,7 @@ class Solution {
         HashMap<Character, Integer> map = new HashMap<>();
         
         int i = 0;
-        int j = i;
+        int j = i; //sliding window
         while(j<s.length()){
             char ch = s.charAt(j);
             if(map.containsKey(ch)){
@@ -44,7 +44,7 @@ class Solution {
                 else{
                 max = Math.max(max, j-i);
                 i = map.get(ch) + 1;
-                map.remove(ch);
+                //map.remove(ch);
                 map.put(ch, j);
                 }
             }
