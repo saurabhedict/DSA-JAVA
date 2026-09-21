@@ -28,10 +28,8 @@
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.equals("")) return 0;
-        int max = Integer.MIN_VALUE;
+        int max = 0;
         HashMap<Character, Integer> map = new HashMap<>();
-        
         int i = 0;
         int j = i; //sliding window
         while(j<s.length()){
