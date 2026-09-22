@@ -53,7 +53,8 @@ class Solution {
       Node temp1 = head;
       Node dummy = new Node(-1);
       Node temp2 = dummy;
-      while(temp1 != null){
+
+      while(temp1 != null){ //dry run on pen paper
         Node temp = new Node(temp1.val);
         map.put(temp1, temp);
         temp2.next = temp;
@@ -63,8 +64,8 @@ class Solution {
       temp1 = head;
       temp2 = dummy.next;
       
-      while(temp1 != null){
-        temp2.random = map.get(temp1.random);
+      while(temp1 != null){ //dry run on pen paper
+        temp2.random = map.get(temp1.random); //main logic
         temp1 = temp1.next;
         temp2 = temp2.next;
       }
