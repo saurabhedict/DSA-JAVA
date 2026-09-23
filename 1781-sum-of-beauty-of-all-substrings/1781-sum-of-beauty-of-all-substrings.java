@@ -47,20 +47,6 @@
 
 
 class Solution {
-    public int[] prefixSum(String s, int i, int j, int n){
-      int[] arr = new int[n];
-      HashMap<Character, Integer> map = new HashMap<>();
-      for(int k = i; k<=j; k++){
-        char ch = s.charAt(k);
-        if(map.containsKey(ch)){
-            int freq = map.get(ch);
-            map.put(ch, freq+1);
-        }
-        else map.put(ch, 1);
-        arr[k] = map.get(ch);
-      }
-      return arr;
-    }
     public int beauty(String s, int i, int j, HashMap<Character, Integer> map){
         HashMap<Character, Integer> mapp = map;
         int min = Integer.MAX_VALUE;
