@@ -24,6 +24,7 @@ Learning DSA in java.
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -101,6 +102,7 @@ Learning DSA in java.
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -111,6 +113,7 @@ Learning DSA in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
@@ -205,6 +208,7 @@ Learning DSA in java.
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -421,6 +425,7 @@ Learning DSA in java.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
@@ -484,6 +489,7 @@ Learning DSA in java.
 | ------- |
 | [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saurabhedict/DSA-JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -505,6 +511,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -514,4 +521,8 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
