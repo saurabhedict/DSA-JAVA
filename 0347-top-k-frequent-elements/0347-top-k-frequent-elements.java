@@ -34,4 +34,4 @@ class Solution {
         }
         return ans;
     }
-}
+} //TC : O(n) + O(nlog(k)) = O(nlog(k)) && auxilary space = O(n)+O(k) = O(n)
