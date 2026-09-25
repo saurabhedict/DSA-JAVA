@@ -44,6 +44,7 @@ Learning DSA in java.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1929-concatenation-of-array) |
@@ -106,6 +107,7 @@ Learning DSA in java.
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
@@ -214,6 +216,7 @@ Learning DSA in java.
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saurabhedict/DSA-JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
