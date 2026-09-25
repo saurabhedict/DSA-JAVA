@@ -40,6 +40,7 @@ Learning DSA in java.
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -118,6 +119,7 @@ Learning DSA in java.
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
 | ------- |
