@@ -18,7 +18,9 @@ class Solution {
 
         int intervals = 0;
         ArrayList<Integer> temp =  new ArrayList<>();
+
         while(!pq.isEmpty()){
+
         for(int i = 1; i<=n+1; i++){
             int x = pq.remove();
             x--;
@@ -32,7 +34,7 @@ class Solution {
         }
 
         if(pq.isEmpty()) intervals += temp.size();
-        else intervals += n+1;
+        else intervals += (n+1);
 
         temp.clear();
         }
