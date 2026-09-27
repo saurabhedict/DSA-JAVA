@@ -210,7 +210,7 @@ class Twitter {
             this.timeStamp = timeStamp;
         }
         public int compareTo(Pair p){
-            return  this.timeStamp - p.timeStamp; //jiska time stamp big hai vo pehle q ki vo hi sbse new tweet hai.
+            return  this.timeStamp - p.timeStamp; //This means smaller timestamp has higher priority
         }
     }
     
@@ -243,7 +243,7 @@ class Twitter {
     }
 
     public void fillList(List<Integer> list, HashSet<Integer> following, int userId){
-        PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder()); //reverseOrder() reverses it, so it becomes a max-heap → larger timestamp comes first
         addFeed(pq, userId);
 
         if(following != null){
@@ -293,3 +293,9 @@ class Twitter {
 
     }
 }
+
+
+// postTweet  → O(1) average
+// follow     → O(1) average
+// unfollow   → O(1) average
+// getNewsFeed → O(T log T)
