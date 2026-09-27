@@ -3,11 +3,9 @@ class Twitter {
     public class Pair implements Comparable<Pair>{
         int tweetId;
         int timeStamp;
-        int userId;
-        Pair(int tweetId, int timeStamp, int userId){
+        Pair(int tweetId, int timeStamp){
             this.tweetId = tweetId;
             this.timeStamp = timeStamp;
-            this.userId = userId;
         }
         public int compareTo(Pair p){
             return  p.timeStamp - this.timeStamp; //jiska time stamp big hai vo pehle q ki vo hi sbse new tweet hai.
@@ -22,7 +20,7 @@ class Twitter {
     }
     
     public void postTweet(int userId, int tweetId) {
-        Pair post = new Pair(tweetId, time, userId);
+        Pair post = new Pair(tweetId, time);
         time++;
         PriorityQueue<Pair> pq = feed.get(userId);
 
