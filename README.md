@@ -119,6 +119,7 @@ Learning DSA in java.
 | [0023-merge-k-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -195,6 +196,7 @@ Learning DSA in java.
 | [0206-reverse-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
@@ -218,6 +220,7 @@ Learning DSA in java.
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
@@ -409,6 +412,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
