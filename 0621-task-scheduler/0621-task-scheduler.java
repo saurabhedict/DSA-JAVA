@@ -1,61 +1,42 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-
-        // 1. Count frequency of each task
-        int[] freq = new int[26];
-
-        for (char task : tasks) {
-            freq[task - 'A']++;
+        HashMap<Character, Integer> map = new HashMap<>();
+        //Stored the freq. of all characters in Map
+        for(char ele : tasks){
+            if(map.containsKey(ele)){
+                int freq = map.get(ele);
+                map.put(ele, freq+1);
+            }
+            else map.put(ele, 1);
         }
-
-        // 2. Max Heap
+        
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-
-        for (int f : freq) {
-            if (f > 0) {
-                pq.add(f);
-            }
+        //Stored all characters freq in max heap
+        for(char key : map.keySet()){
+          pq.add(map.get(key));
         }
 
-        int time = 0;
-
-        // 3. Process tasks in groups of n + 1
-        while (!pq.isEmpty()) {
-
-            int cycle = n + 1;
-            int tasksDone = 0;
-
-            ArrayList<Integer> remaining = new ArrayList<>();
-
-            // Try to execute at most n + 1 different tasks
-            while (cycle > 0 && !pq.isEmpty()) {
-
-                int current = pq.poll();
-
-                current--;
-                tasksDone++;
-                cycle--;
-
-                if (current > 0) {
-                    remaining.add(current);
-                }
-            }
-
-            // Put remaining frequencies back into heap
-            for (int f : remaining) {
-                pq.add(f);
-            }
-
-            // If heap is empty, no idle time is needed
-            if (pq.isEmpty()) {
-                time += tasksDone;
-            } 
-            else {
-                // Complete n+1 intervals for this cycle
-                time += n + 1;
-            }
+        int intervals = 0;
+        ArrayList<Integer> temp =  new ArrayList<>();
+        while(!pq.isEmpty()){
+        for(int i = 1; i<=n+1; i++){
+            int x = pq.remove();
+            x--;
+            temp.add(x);
+            if(pq.isEmpty()) break;
         }
 
-        return time;
-    }
+        for(int i = 0; i<temp.size(); i++){
+            int num = temp.get(i);
+            if(num > 0) pq.add(num);
+        }
+
+        if(pq.isEmpty()) intervals += temp.size();
+        else intervals += n+1;
+
+        temp.clear();
+        }
+      
+      return intervals;
+}
 }
