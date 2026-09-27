@@ -25,7 +25,7 @@ class Twitter {
         PriorityQueue<Pair> pq = feed.get(userId);
 
         if(pq == null){
-            pq = new PriorityQueue<>(Collections.reverseOrder());
+            pq = new PriorityQueue<>();
             feed.put(userId, pq);
         }
         pq.add(post);
