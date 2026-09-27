@@ -49,6 +49,7 @@ Learning DSA in java.
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -112,6 +113,7 @@ Learning DSA in java.
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -125,6 +127,7 @@ Learning DSA in java.
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 ## Greedy
 |  |
 | ------- |
