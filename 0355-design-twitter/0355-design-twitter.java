@@ -48,7 +48,7 @@ class Twitter {
               addFeed(temp, followingId);
             }
         }
-        Collections.sort(temp);
+        Collections.sort(temp); //jiska time stamp zyada rhega vo latest hai to vo starting me aa jayega list ke
         int count = 0;
         for(Pair tweet : temp){
             if(count<10) list.add(tweet.tweetId);
