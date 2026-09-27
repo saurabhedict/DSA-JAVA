@@ -10,12 +10,12 @@ class Twitter {
             this.userId = userId;
         }
         public int compareTo(Pair p){
-            return  p.timeStamp - this.timeStamp;
+            return  p.timeStamp - this.timeStamp; //jiska time stamp big hai vo pehle q ki vo hi sbse new tweet hai.
         }
     }
     
-    HashMap<Integer, HashSet<Integer>> map = new HashMap<>(); //mujhe kon on follow kr rha hai
-    HashMap<Integer, PriorityQueue<Pair>> feed = new HashMap<>();
+    HashMap<Integer, HashSet<Integer>> map = new HashMap<>(); //user Id, and the peoples followed by User.
+    HashMap<Integer, PriorityQueue<Pair>> feed = new HashMap<>();//user Id, and the post of the user.
 
     public Twitter() {
         
@@ -62,8 +62,8 @@ class Twitter {
     
     public List<Integer> getNewsFeed(int userId) {
         List<Integer> list = new ArrayList<>();
-        HashSet<Integer> followers = map.get(userId);
-        fillList(list, followers, userId);
+        HashSet<Integer> following = map.get(userId);
+        fillList(list, following, userId);
         return list;
         
     }
@@ -71,7 +71,7 @@ class Twitter {
     
     public void follow(int followerId, int followeeId) {
       if(map.containsKey(followerId)){
-           HashSet<Integer> set = map.get(followerId); //followers list
+           HashSet<Integer> set = map.get(followerId); //following list
            set.add(followeeId);
            map.put(followerId, set);
       }
