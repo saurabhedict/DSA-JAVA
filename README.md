@@ -42,6 +42,7 @@ Learning DSA in java.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -112,6 +113,7 @@ Learning DSA in java.
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
@@ -129,6 +131,7 @@ Learning DSA in java.
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 ## Greedy
@@ -405,6 +408,7 @@ Learning DSA in java.
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Monotonic Stack
@@ -539,6 +543,7 @@ Learning DSA in java.
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Quickselect
 |  |
