@@ -107,7 +107,6 @@
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
         int n = trips.length;
-
         int[] arr = new int[1001];
 
         for(int i = 0; i<n; i++){
