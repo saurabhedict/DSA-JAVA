@@ -66,6 +66,7 @@ Learning DSA in java.
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -107,6 +108,7 @@ Learning DSA in java.
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -123,6 +125,7 @@ Learning DSA in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
@@ -426,6 +429,7 @@ Learning DSA in java.
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -435,6 +439,7 @@ Learning DSA in java.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/saurabhedict/DSA-JAVA/tree/master/0901-online-stock-span) |
 ## Matrix
