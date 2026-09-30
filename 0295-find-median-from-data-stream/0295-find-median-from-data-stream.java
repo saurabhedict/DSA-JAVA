@@ -90,18 +90,14 @@ class MedianFinder {
     
     public double findMedian() {
         
-         if(maxpq.size() == minpq.size()){
+        if(maxpq.size() == minpq.size()){
             return (maxpq.peek() + minpq.peek())/2.0;
-         }
-         else{
-            if(maxpq.size() > minpq.size()){
-                return maxpq.peek();
-            }
-            if(maxpq.size() < minpq.size()){
-                return minpq.peek();
-            }
-         }
-         return 0.0;
+        }
+        else if(maxpq.size() > minpq.size()){
+            return maxpq.peek();
+        }
+        else return minpq.peek();
+            
         }
     }
 
