@@ -84,6 +84,11 @@
 //     public int[] smallestRange(List<List<Integer>> nums) {
 //         PriorityQueue<Triplet> pq = new PriorityQueue<>();
 //         int n = nums.size();
+//         int m = Integer.MAX_VALUE;
+
+//         for(int i = 0; i<n; i++){
+//             m = Math.min(m, nums.get(i).size());
+//         }
 
 //         int a = Integer.MAX_VALUE;
 //         int b = Integer.MIN_VALUE;
@@ -105,16 +110,20 @@
 //                     b = max;
 //                     a = top.ele;
 //             }
-//             if(top.col == nums.get(top.row).size()-1) break;
-//             Triplet x = new Triplet(nums.get(top.row).get(top.col+1),top.row, top.col+1);
-//             max = Math.max(max, x.ele);
-//             pq.add(x);
+//             if(top.col < nums.get(top.row).size()-1){
+//                 Triplet x = new Triplet(nums.get(top.row).get(top.col+1),top.row, top.col+1);
+//                 pq.add(x);
+//                 max = Math.max(max, x.ele); //order of updating max after checing the condition is very important
+//             }
+//             else break;
+            
 //         }
-        
+
 //         int[] ans = {a, b};
 //         return ans;
 //     }
 // }
+
 
 
 
@@ -137,11 +146,6 @@ class Solution {
     public int[] smallestRange(List<List<Integer>> nums) {
         PriorityQueue<Triplet> pq = new PriorityQueue<>();
         int n = nums.size();
-        int m = Integer.MAX_VALUE;
-
-        for(int i = 0; i<n; i++){
-            m = Math.min(m, nums.get(i).size());
-        }
 
         int a = Integer.MAX_VALUE;
         int b = Integer.MIN_VALUE;
@@ -163,16 +167,14 @@ class Solution {
                     b = max;
                     a = top.ele;
             }
-            if(top.col < nums.get(top.row).size()-1){
-                Triplet x = new Triplet(nums.get(top.row).get(top.col+1),top.row, top.col+1);
-                pq.add(x);
-                max = Math.max(max, x.ele); //order of updating max after checing the condition is very important
-            }
-            else break;
-            
+            if(top.col == nums.get(top.row).size()-1) break;
+            Triplet x = new Triplet(nums.get(top.row).get(top.col+1),top.row, top.col+1);
+            max = Math.max(max, x.ele);
+            pq.add(x);
         }
-
+        
         int[] ans = {a, b};
         return ans;
     }
 }
+
