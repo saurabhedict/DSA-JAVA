@@ -17,11 +17,6 @@
 //     public int[] smallestRange(List<List<Integer>> nums) {
 //         PriorityQueue<Triplet> pq = new PriorityQueue<>();
 //         int n = nums.size();
-//         int m = Integer.MAX_VALUE;
-
-//         for(int i = 0; i<n; i++){
-//             m = Math.min(m, nums.get(i).size());
-//         }
 
 //         int a = Integer.MAX_VALUE;
 //         int b = Integer.MIN_VALUE;
@@ -84,11 +79,6 @@
 //     public int[] smallestRange(List<List<Integer>> nums) {
 //         PriorityQueue<Triplet> pq = new PriorityQueue<>();
 //         int n = nums.size();
-//         int m = Integer.MAX_VALUE;
-
-//         for(int i = 0; i<n; i++){
-//             m = Math.min(m, nums.get(i).size());
-//         }
 
 //         int a = Integer.MAX_VALUE;
 //         int b = Integer.MIN_VALUE;
