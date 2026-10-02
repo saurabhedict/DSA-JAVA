@@ -26,6 +26,7 @@ Learning DSA in java.
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
+| [0502-ipo](https://github.com/saurabhedict/DSA-JAVA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -112,6 +113,7 @@ Learning DSA in java.
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/saurabhedict/DSA-JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -131,6 +133,7 @@ Learning DSA in java.
 | [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/saurabhedict/DSA-JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -145,6 +148,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/saurabhedict/DSA-JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
