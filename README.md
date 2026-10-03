@@ -24,6 +24,7 @@ Learning DSA in java.
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/saurabhedict/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/saurabhedict/DSA-JAVA/tree/master/0502-ipo) |
@@ -442,6 +443,7 @@ Learning DSA in java.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/saurabhedict/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
@@ -559,6 +561,7 @@ Learning DSA in java.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/saurabhedict/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
