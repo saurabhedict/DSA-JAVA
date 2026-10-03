@@ -35,6 +35,7 @@ Learning DSA in java.
 | [0704-binary-search](https://github.com/saurabhedict/DSA-JAVA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/saurabhedict/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -562,6 +563,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/saurabhedict/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/saurabhedict/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
