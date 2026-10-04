@@ -48,6 +48,7 @@ Learning DSA in java.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/saurabhedict/DSA-JAVA/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
@@ -572,6 +573,7 @@ Learning DSA in java.
 | [0303-range-sum-query-immutable](https://github.com/saurabhedict/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/saurabhedict/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/saurabhedict/DSA-JAVA/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
