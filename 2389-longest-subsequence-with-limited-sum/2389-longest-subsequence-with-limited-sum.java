@@ -26,4 +26,4 @@ class Solution {
         }
         return queries;
     }
-}
+} //O(nlog(n) + O(n-1) + O(m*logn)) = O(nlog(n)); : if m < n
