@@ -60,6 +60,7 @@ Learning DSA in java.
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saurabhedict/DSA-JAVA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
@@ -567,6 +568,7 @@ Learning DSA in java.
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Quickselect
 |  |
 | ------- |
