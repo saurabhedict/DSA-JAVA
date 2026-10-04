@@ -60,6 +60,7 @@ Learning DSA in java.
 | [1929-concatenation-of-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saurabhedict/DSA-JAVA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -91,6 +92,7 @@ Learning DSA in java.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Learning DSA in java.
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabhedict/DSA-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Learning DSA in java.
 | [1382-balance-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1405-longest-happy-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## String
 |  |
 | ------- |
@@ -570,6 +574,7 @@ Learning DSA in java.
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Quickselect
 |  |
