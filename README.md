@@ -11,6 +11,7 @@ Learning DSA in java.
 | [0027-remove-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/saurabhedict/DSA-JAVA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@ Learning DSA in java.
 | ------- |
 | [0001-two-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabhedict/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/saurabhedict/DSA-JAVA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saurabhedict/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
