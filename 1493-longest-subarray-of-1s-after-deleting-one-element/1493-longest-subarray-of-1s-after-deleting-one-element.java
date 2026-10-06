@@ -37,7 +37,7 @@ class Solution {
           }
 
         }
-        if(maxLen == Integer.MIN_VALUE) return 0;
+        // if(maxLen == Integer.MIN_VALUE) return 0;  
         return maxLen;
     }
 }
