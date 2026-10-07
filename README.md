@@ -52,6 +52,7 @@ Learning DSA in java.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabhedict/DSA-JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/saurabhedict/DSA-JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/saurabhedict/DSA-JAVA/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
@@ -123,6 +124,7 @@ Learning DSA in java.
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhedict/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/saurabhedict/DSA-JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
