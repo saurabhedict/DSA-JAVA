@@ -17,9 +17,13 @@ class Solution {
     else return count;
 
     while(j<n){
+
         j++;
+
         if(j<n){
+
             prod *= nums[j];
+
             if(prod >= k){
                 while(prod>=k){
                     prod /= nums[i];
@@ -27,7 +31,7 @@ class Solution {
                 }
             }
 
-        count += j-i+1;
+            count += j-i+1;
         }
     }
     return count;
