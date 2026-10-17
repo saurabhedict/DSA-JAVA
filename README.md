@@ -44,6 +44,7 @@ Learning DSA in java.
 | [0735-asteroid-collision](https://github.com/saurabhedict/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saurabhedict/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/saurabhedict/DSA-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/saurabhedict/DSA-JAVA/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurabhedict/DSA-JAVA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -123,6 +124,7 @@ Learning DSA in java.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhedict/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurabhedict/DSA-JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -281,6 +283,7 @@ Learning DSA in java.
 | [0705-design-hashset](https://github.com/saurabhedict/DSA-JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabhedict/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/saurabhedict/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/saurabhedict/DSA-JAVA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhedict/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
