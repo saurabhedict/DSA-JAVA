@@ -40,6 +40,52 @@
 
 
 
+// class Solution {
+//     public int numberOfSubarrays(int[] nums, int k) {
+//        int n = nums.length;
+//        HashMap<Integer, Integer> map = new HashMap<>();
+//        int count  = 0;
+
+//        for(int i = 0; i<n; i++){
+//           if( nums[i]%2 == 0) nums[i] = 0;
+//           else nums[i] = 1;
+//        }
+
+//        for(int i = 1; i<n; i++){
+//         nums[i] = nums[i] + nums[i-1];
+//        }
+
+//        for(int i = 0; i<n; i++){
+
+//             if(!map.containsKey(nums[i])){
+//                 map.put(nums[i], i);
+//             }
+
+//             if(nums[i] == k){
+//                 int a =  0;
+//                 int b =  0;
+//                 if(map.containsKey(nums[i]-k)) a = map.get(nums[i]-k);
+//                 if(map.containsKey(nums[i]-k+1)) b = map.get(nums[i]-k+1);
+//                 count += b-a+1;
+//             }
+            
+//             if(nums[i] > k){
+//                 int a = 0; 
+//                 if(map.containsKey(nums[i]-k)) a = map.get(nums[i]-k);
+//                 int b = 0;
+//                 if(map.containsKey(nums[i]-k+1)) b = map.get(nums[i]-k+1);
+//                 count += b-a;
+//             }
+//        }
+
+//        return count;
+//     }
+// }
+
+
+
+
+
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
        int n = nums.length;
@@ -60,19 +106,20 @@ class Solution {
             if(!map.containsKey(nums[i])){
                 map.put(nums[i], i);
             }
+       }
 
+       for(int i = 0; i<n; i++){
+
+            int a =  0;
+            int b =  0;
             if(nums[i] == k){
-                int a =  0;
-                int b =  0;
                 if(map.containsKey(nums[i]-k)) a = map.get(nums[i]-k);
                 if(map.containsKey(nums[i]-k+1)) b = map.get(nums[i]-k+1);
                 count += b-a+1;
             }
             
-            if(nums[i] > k){
-                int a = 0; 
+            else if(nums[i] > k){
                 if(map.containsKey(nums[i]-k)) a = map.get(nums[i]-k);
-                int b = 0;
                 if(map.containsKey(nums[i]-k+1)) b = map.get(nums[i]-k+1);
                 count += b-a;
             }
