@@ -81,7 +81,7 @@
 //        return count;
 //     }
 // }
-
+//SC = O(1) && TC = O(n);
 
 
 
@@ -102,7 +102,6 @@ class Solution {
        }
 
        for(int i = 0; i<n; i++){
-
             if(!map.containsKey(nums[i])){
                 map.put(nums[i], i);
             }
@@ -128,3 +127,4 @@ class Solution {
        return count;
     }
 }
+//SC = O(n) && TC = O(n)
