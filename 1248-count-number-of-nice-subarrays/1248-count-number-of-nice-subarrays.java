@@ -114,13 +114,13 @@ class Solution {
             int b =  0;
             if(nums[i] == k){
                 if(map.containsKey(nums[i]-k)) a = map.get(nums[i]-k);
-                if(map.containsKey(nums[i]-k+1)) b = map.get(nums[i]-k+1);
+                b = map.get(nums[i]-k+1);
                 count += b-a+1;
             }
             
             else if(nums[i] > k){
                 if(map.containsKey(nums[i]-k)) a = map.get(nums[i]-k);
-                if(map.containsKey(nums[i]-k+1)) b = map.get(nums[i]-k+1);
+                b = map.get(nums[i]-k+1);
                 count += b-a;
             }
        }
