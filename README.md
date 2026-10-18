@@ -24,6 +24,7 @@ Learning DSA in java.
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/saurabhedict/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saurabhedict/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ Learning DSA in java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabhedict/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
@@ -276,6 +278,7 @@ Learning DSA in java.
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhedict/DSA-JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
