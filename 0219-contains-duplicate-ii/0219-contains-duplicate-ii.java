@@ -54,19 +54,42 @@
 
 
 
+// class Solution {
+//     public boolean containsNearbyDuplicate(int[] nums, int k) {
+//        int n = nums.length;
+//        HashMap<Integer, Integer> map = new HashMap<>();
+
+//        for(int i = 0; i<n; i++){
+//          if(!map.containsKey(nums[i])) map.put(nums[i], i);
+//          else{
+//             int first = map.get(nums[i]);
+//             int second = i;
+//             if(Math.abs(second-first) <= k) return true;
+//             map.put(nums[i], i);
+//          }
+//        }
+//        return false;
+//     }
+//}
+
+
+
+
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
+        if(k == 0) return false;
        int n = nums.length;
-       HashMap<Integer, Integer> map = new HashMap<>();
-
-       for(int i = 0; i<n; i++){
-         if(!map.containsKey(nums[i])) map.put(nums[i], i);
-         else{
-            int first = map.get(nums[i]);
-            int second = i;
-            if(Math.abs(second-first) <= k) return true;
-            map.put(nums[i], i);
-         }
+       HashSet<Integer> set = new HashSet<>();
+       int i = 0;
+       int j = 0;
+       while(j<n){
+        if(set.contains(nums[j])) return true;
+        if(j-i >= k){
+            set.remove(nums[i]);
+            i++;
+        }
+        set.add(nums[j]);
+        j++;
        }
        return false;
     }
