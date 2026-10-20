@@ -62,6 +62,25 @@
 
 
 
+// class Solution {
+//     public int lengthOfLongestSubstring(String s) {
+//         int max = 0;
+//         HashMap<Character, Integer> map = new HashMap<>();
+//         int i = 0;
+//         int j = i; //sliding window
+//         while(j<s.length()){
+//             char ch = s.charAt(j);
+//             if(map.containsKey(ch) &&  map.get(ch) >= i) i = map.get(ch) + 1;
+//             map.put(ch, j);
+//             max = Math.max(max, j-i+1);
+//             j++;
+//         }
+//         return max;
+//     }
+// }  //dry run kro differnt test case leke
+
+
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
@@ -70,7 +89,7 @@ class Solution {
         int j = i; //sliding window
         while(j<s.length()){
             char ch = s.charAt(j);
-            if(map.containsKey(ch) && i <= map.get(ch)) i = map.get(ch) + 1;
+            if(map.containsKey(ch)  &&  map.get(ch) >= i) i = map.get(ch) + 1;
             map.put(ch, j);
             max = Math.max(max, j-i+1);
             j++;
@@ -78,3 +97,7 @@ class Solution {
         return max;
     }
 } 
+
+
+
+
