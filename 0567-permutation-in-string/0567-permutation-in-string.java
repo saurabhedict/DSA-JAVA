@@ -45,6 +45,8 @@
 
 
 
+
+
 // class Solution {
 //     public boolean isAnagram(String s1, String s2){
 //         char[] ch1 = s1.toCharArray();
@@ -74,7 +76,9 @@
 //         return false;
         
 //     }
-// }
+// } //TC = O(m*nlog(n)), SC = O(n)
+
+
 
 
 
@@ -93,7 +97,7 @@ class Solution {
                 map1.put(ch, freq+1);
             }
             else map1.put(ch, 1);
-        }
+        } //O(N)
 
         HashMap<Character, Integer> map2 = new HashMap<>();
         
@@ -108,8 +112,8 @@ class Solution {
                 i++;
             }
             if(j-i+1 == n){
-              if(map1.equals(map2)) return true;
-            }
+              if(map1.equals(map2)) return true; //v.imp way
+            } //O(26) at max
             j++;
             if(j<m){ 
                 if(map2.containsKey(s2.charAt(j))) {
@@ -118,9 +122,21 @@ class Solution {
                   map2.put(s2.charAt(j), freq);
             }
             else map2.put(s2.charAt(j), 1);
-        }
-        
+        } 
     }
     return false;
 }
-}
+} //TC = O(n + 26*m), SC = O(n)
+
+
+
+
+
+
+
+// class Solution {
+//     public boolean checkInclusion(String s1, String s2) {
+        
+        
+//     }
+// }
