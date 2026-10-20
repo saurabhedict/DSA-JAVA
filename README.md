@@ -126,6 +126,7 @@ Learning DSA in java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabhedict/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/saurabhedict/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
@@ -202,6 +203,7 @@ Learning DSA in java.
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/saurabhedict/DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/saurabhedict/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1405-longest-happy-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1405-longest-happy-string) |
@@ -285,6 +287,7 @@ Learning DSA in java.
 | [0242-valid-anagram](https://github.com/saurabhedict/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/saurabhedict/DSA-JAVA/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/saurabhedict/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/saurabhedict/DSA-JAVA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
