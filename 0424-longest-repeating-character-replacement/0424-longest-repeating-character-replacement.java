@@ -1,0 +1,39 @@
+class Solution {
+    public int mostFreqChar(HashMap<Character, Integer> map){
+        int max = Integer.MIN_VALUE;
+        for(char ele : map.keySet()){
+            max = Math.max(max, map.get(ele));
+        }
+        return max;
+    }
+
+    public int characterReplacement(String s, int k) {
+        int n = s.length();
+        int i = 0, j = 0;
+        HashMap<Character, Integer> map = new HashMap<>();
+        int result = Integer.MIN_VALUE;
+        while(j<n){
+         char ch = s.charAt(j);
+         if(map.containsKey(ch)){
+            int freq = map.get(ch);
+            map.put(ch, freq+1);
+         }
+         else map.put(ch, 1);
+
+         int len = j-i+1;
+         int mostFreq = mostFreqChar(map);
+         if(len-mostFreq <= k){
+            result = Math.max(result, len);
+         }
+         else{
+            int freq = map.get(s.charAt(i));
+            map.put(s.charAt(i), freq-1);
+            i++;  
+         }
+         j++;
+         
+        }
+
+        return result;
+    }
+}
