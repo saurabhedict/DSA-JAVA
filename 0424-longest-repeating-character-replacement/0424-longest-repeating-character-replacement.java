@@ -12,8 +12,10 @@ class Solution {
         int i = 0, j = 0;
         HashMap<Character, Integer> map = new HashMap<>();
         int result = Integer.MIN_VALUE;
+
         while(j<n){
          char ch = s.charAt(j);
+
          if(map.containsKey(ch)){
             int freq = map.get(ch);
             map.put(ch, freq+1);
@@ -22,9 +24,11 @@ class Solution {
 
          int len = j-i+1;
          int mostFreq = mostFreqChar(map);
+
          if(len-mostFreq <= k){
             result = Math.max(result, len);
          }
+
          else{
             while(len-mostFreq > k){
                int freq = map.get(s.charAt(i));
@@ -34,8 +38,10 @@ class Solution {
                len = j-i+1;
                mostFreq = mostFreqChar(map);
             }
+            //valid window
             result = Math.max(result, len);
          }
+
          j++;
         }
 
