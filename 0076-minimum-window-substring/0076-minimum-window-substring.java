@@ -106,4 +106,5 @@ class Solution {
         }
         return ans;
     }
-}
+} //TC = O(n + m*k + m*k), where k is distinct elements in map,  O(n+m) : final
+//SC = by map : O(k), answer string : O(m) : at max
