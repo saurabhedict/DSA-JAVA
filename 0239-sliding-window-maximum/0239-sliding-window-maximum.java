@@ -12,12 +12,12 @@ class Solution {
             }
             
             //remove the small elements from thw window which can never be the answer
-            while(deque.size() > 0 && nums[deque.peekFirst()] < nums[i]){
+            while(deque.size() > 0 && nums[i] > nums[deque.peekFirst()]){
                 deque.removeFirst();
-            }
-            
+            }//i am trying to maintain Monotonically Decreasing order inside Deque, that's why i am removing smaller elements from front of deque
+
             deque.addFirst(i);
-            if(i >= k-1) ans.add(nums[deque.peekLast()]);
+            if(i >= k-1) ans.add(nums[deque.peekLast()]); //I want maximum element of every window, which is maintained in last of Deque, that's why i am adding the element inside ans From Last of deque
             i++;
             
         }
