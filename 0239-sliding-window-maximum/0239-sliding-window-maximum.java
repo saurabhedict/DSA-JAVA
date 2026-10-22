@@ -6,13 +6,16 @@ class Solution {
         int i = 0;
 
         while(i<n){
+            //check the window is valid for the currant Ith element or not
             while(deque.size()>0 && deque.peekLast() <= i-k){
                 deque.removeLast();
             }
-
+            
+            //remove the small elements from thw window which can never be the answer
             while(deque.size() > 0 && nums[deque.peekFirst()] < nums[i]){
                 deque.removeFirst();
             }
+            
             deque.addFirst(i);
             if(i >= k-1) ans.add(nums[deque.peekLast()]);
             i++;
