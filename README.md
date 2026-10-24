@@ -421,6 +421,7 @@ Learning DSA in java.
 | [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -561,6 +562,7 @@ Learning DSA in java.
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -660,9 +662,11 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
