@@ -40,8 +40,10 @@ class Solution {
             int front = q.remove();
 
             for(int ele : adj.get(front)){
-                if(visited[ele] == false) q.add(ele);
-                visited[ele] = true;
+                if(visited[ele] == false){
+                    q.add(ele);
+                    visited[ele] = true;
+                }
             }
         }          
             
