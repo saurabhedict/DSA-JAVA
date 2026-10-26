@@ -109,7 +109,7 @@
 
 
 class Solution {
-    public boolean DFS(int n, int i, List<List<Integer>> adj, boolean[] visited, int destination){
+    public void DFS(int n, int i, List<List<Integer>> adj, boolean[] visited, int destination){
     
         visited[i] = true;
 
@@ -119,9 +119,9 @@ class Solution {
                     DFS(n, ele, adj, visited, destination);
                 }
             }
-            if(i == destination) return visited[destination];
+            // if(i == destination) return visited[destination];
         
-        return false;        
+        // return false;        
             
     }
     
