@@ -38,7 +38,7 @@ class Solution {
       int n = isConnected.length;
       visited[i] = true;
       for(int j = 0; j<n; j++){
-        if(visited[j] == false && isConnected[i][j] == 1){
+        if(isConnected[i][j] == 1 && visited[j] == false ){
             DFS(j, isConnected, visited);
         }
       }
