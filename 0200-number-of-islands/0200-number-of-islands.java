@@ -62,39 +62,28 @@
 
 
 class Solution {
-    public class Pair{
-        int row;
-        int col;
-        Pair(int row, int col){
-            this.row = row;
-            this.col = col;
-        }
-    }
-    public void DFS(char[][] grid, boolean[][] visited, Pair p){
+
+    public void DFS(char[][] grid, boolean[][] visited, int i, int j){
       int m = grid.length;
       int n = grid[0].length;
      
-        int row = p.row;
-        int col = p.col;
+        int row = i;
+        int col = j;
         if(row-1 >=0 && grid[row-1][col] == '1' && visited[row-1][col] == false){
-            Pair p1 = new Pair(row-1, col);
             visited[row-1][col] = true;
-            DFS(grid, visited, p1);
+            DFS(grid, visited, row-1, col);
         }
         if(col-1 >=0 && grid[row][col-1] == '1' && visited[row][col-1] == false){
-            Pair p1 = new Pair(row, col-1);
             visited[row][col-1] = true;
-            DFS(grid, visited, p1);
+            DFS(grid, visited, row, col-1);
         }
         if(row+1 < m && grid[row+1][col] == '1' && visited[row+1][col] == false){
-            Pair p1 = new Pair(row+1, col);
             visited[row+1][col] = true;
-            DFS(grid, visited, p1);
+            DFS(grid, visited, row+1, col);
         }
         if(col+1 < n && grid[row][col+1] == '1' && visited[row][col+1] == false){
-            Pair p1 = new Pair(row, col+1);
             visited[row][col+1] = true;
-            DFS(grid, visited, p1);
+            DFS(grid, visited, row, col+1);
         }
       
     }
@@ -107,9 +96,8 @@ class Solution {
         for(int i = 0; i<m; i++){
             for(int j = 0; j<n; j++){
                 if(grid[i][j] == '1' && visited[i][j] == false){
-                    Pair p = new Pair(i, j);
                     visited[i][j] = true;
-                    DFS(grid, visited, p);
+                    DFS(grid, visited, i, j);
                     count++;
                 }
                 
