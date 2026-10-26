@@ -38,7 +38,7 @@ class Solution {
       int n = isConnected.length;
       visited[i] = true;
       for(int j = 0; j<n; j++){
-        if(isConnected[i][j] == 1 && visited[j] == false ){
+        if(isConnected[i][j] == 1 && visited[j] == false ){ //first condition kya i --> j se connected hai, if yes then kya visited[j] khi already to visited nhi if nhi then usko hi pehle DFS lga do.
             DFS(j, isConnected, visited);
         }
       }
