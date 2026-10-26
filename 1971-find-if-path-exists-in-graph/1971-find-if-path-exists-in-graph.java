@@ -68,22 +68,59 @@
 
 
 
-class Solution {
-    public boolean BFS(int n, int source, List<List<Integer>> adj, boolean[] visited, int destination){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
-        visited[source] = true;
-        while(!q.isEmpty()){ 
-            int front = q.remove();
+// class Solution {
+//     public boolean BFS(int n, int source, List<List<Integer>> adj, boolean[] visited, int destination){
+//         Queue<Integer> q = new LinkedList<>();
+//         q.add(source);
+//         visited[source] = true;
+//         while(!q.isEmpty()){ 
+//             int front = q.remove();
 
-            for(int ele : adj.get(front)){
+//             for(int ele : adj.get(front)){
+//                 if(visited[ele] == false){
+//                     q.add(ele);
+//                     visited[ele] = true;
+//                 }
+//             }
+//             if(front == destination) return visited[destination];
+//         }  
+//         return false;        
+            
+//     }
+    
+//     public boolean validPath(int n, int[][] edges, int source, int destination) {
+//         boolean[] visited = new boolean[n];
+//         List<List<Integer>> adj = new ArrayList<>();
+//         for(int i = 0; i<n; i++) adj.add(new ArrayList<>());
+
+//         for(int i = 0; i<edges.length; i++){
+//             int first = edges[i][0];
+//             int second = edges[i][1];
+//             adj.get(first).add(second);
+//             adj.get(second).add(first);
+//         }
+//         BFS(n, source, adj, visited, destination);
+//         return visited[destination];
+//     }
+// }
+
+
+
+
+
+class Solution {
+    public boolean DFS(int n, int i, List<List<Integer>> adj, boolean[] visited, int destination){
+    
+        visited[i] = true;
+
+            for(int ele : adj.get(i)){
                 if(visited[ele] == false){
-                    q.add(ele);
                     visited[ele] = true;
+                    DFS(n, ele, adj, visited, destination);
                 }
             }
-            if(front == destination) return visited[destination];
-        }  
+            if(i == destination) return visited[destination];
+        
         return false;        
             
     }
@@ -99,7 +136,7 @@ class Solution {
             adj.get(first).add(second);
             adj.get(second).add(first);
         }
-        BFS(n, source, adj, visited, destination);
+        DFS(n, source, adj, visited, destination);
         return visited[destination];
     }
 }
