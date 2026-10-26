@@ -76,22 +76,22 @@ class Solution {
      
         int row = p.row;
         int col = p.col;
-        if(row-1 >=0 && visited[row-1][col] == false && grid[row-1][col] == '1'){
+        if(row-1 >=0 && grid[row-1][col] == '1' && visited[row-1][col] == false){
             Pair p1 = new Pair(row-1, col);
             visited[row-1][col] = true;
             DFS(grid, visited, p1);
         }
-        if(col-1 >=0 && visited[row][col-1] == false && grid[row][col-1] == '1'){
+        if(col-1 >=0 && grid[row][col-1] == '1' && visited[row][col-1] == false){
             Pair p1 = new Pair(row, col-1);
             visited[row][col-1] = true;
             DFS(grid, visited, p1);
         }
-        if(row+1 < m && visited[row+1][col] == false && grid[row+1][col] == '1'){
+        if(row+1 < m && grid[row+1][col] == '1' && visited[row+1][col] == false){
             Pair p1 = new Pair(row+1, col);
             visited[row+1][col] = true;
             DFS(grid, visited, p1);
         }
-        if(col+1 < n && visited[row][col+1] == false && grid[row][col+1] == '1'){
+        if(col+1 < n && grid[row][col+1] == '1' && visited[row][col+1] == false){
             Pair p1 = new Pair(row, col+1);
             visited[row][col+1] = true;
             DFS(grid, visited, p1);
