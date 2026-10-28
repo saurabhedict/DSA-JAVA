@@ -417,6 +417,7 @@ Learning DSA in java.
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -564,6 +565,7 @@ Learning DSA in java.
 | [0226-invert-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -667,11 +669,21 @@ Learning DSA in java.
 | ------- |
 | [0200-number-of-islands](https://github.com/saurabhedict/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
