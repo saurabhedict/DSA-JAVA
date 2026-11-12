@@ -94,55 +94,36 @@
 
 
 
+
 class Solution {
-    class Pair{
-        int num;
-        int colour;
-        Pair(int num, int colour){
-            this.num = num;
-            this.colour = colour;
-        }
-    }
-    public boolean BFS(int[][] graph, int[] visited, int i){
-        Queue<Pair> que = new LinkedList<>();
-        visited[i] = 0;
-        que.add(new Pair(i, visited[i]));
-
-        while(!que.isEmpty()){
-            Pair front = que.remove();
-            int parentValue = front.num;
-            int parentColour = front.colour;
-
-            for(int ele : graph[parentValue]){
-                if(visited[ele] == -1){
-                    if(visited[parentValue] == 0){
-                        visited[ele] = 1;
-                        que.add(new Pair(ele, visited[ele]));
-                    }
-                    else{
-                        visited[ele] = 0;
-                        que.add(new Pair(ele, visited[ele]));
-                    }
-                }
-                else{
-                    if(visited[ele] == visited[parentValue]) return false;
-                }
+    public boolean DFS(int[][] graph, int[] visited, int i, int colour){
+        int n = visited.length;
+        visited[i] = colour;
+        int parentColour = colour;
+        for(int ele : graph[i]){
+            if(visited[ele] == -1){
+                visited[ele] = 1-parentColour;
+                boolean result =  DFS(graph, visited, ele, 1-parentColour);
+                if(result ==  false) return false;
+            }
+            else{
+                if(visited[ele] == parentColour) return false;
             }
         }
         return true;
-   
     }
+    
     public boolean isBipartite(int[][] graph) {
-       int n = graph.length;
-       int[] visited = new int[n];
-       Arrays.fill(visited, -1);
+        int n = graph.length;
+        int[] visited = new int[n];
+        Arrays.fill(visited, -1);
 
-       for(int i = 0; i<n; i++){
-        if(visited[i] == -1){
-            boolean result = BFS(graph, visited, i);
-            if(result == false) return result;
-        }
-       }
-       return true;
+         for(int i = 0; i<n; i++){
+            if(visited[i] == -1){
+                boolean result = DFS(graph, visited, i, 0);
+                if(result ==  false) return false;
+            }
+         }
+         return true;
     }
 }
