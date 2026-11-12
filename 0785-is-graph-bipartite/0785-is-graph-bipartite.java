@@ -56,63 +56,26 @@
 
 
 
-// class Solution {
-//     public boolean DFS(int[][] graph, int[] visited, int i, int colour){
-//         int n = visited.length;
-//         visited[i] = colour;
-         
-//         for(int j = 0; j<graph[i].length; j++){
-//             int ele = graph[i][j];
-//            if(visited[ele] == -1){
-//              boolean result = false;
-//              if(visited[i] == 0) result =  DFS(graph, visited, ele, 1);
-//              else result =  DFS(graph, visited, ele, 0);
-//              if(result == false) return false;
-//            }
-
-//            else{
-//             if(visited[i] == visited[ele]) return false;
-//            }
-//         }
-//         return true;
-//     }
-//     public boolean isBipartite(int[][] graph) {
-//         int n = graph.length;
-//         int[] visited = new int[n];
-//         Arrays.fill(visited, -1);
-
-//          for(int i = 0; i<n; i++){
-//             if(visited[i] == -1){
-//                 boolean result = DFS(graph, visited, i, 0);
-//                 if(result ==  false) return false;
-//             }
-//          }
-//          return true;
-//     }
-// }
-
-
-
-
-
 class Solution {
     public boolean DFS(int[][] graph, int[] visited, int i, int colour){
         int n = visited.length;
         visited[i] = colour;
-        int parentColour = colour;
-        for(int ele : graph[i]){
-            if(visited[ele] == -1){
-                visited[ele] = 1-parentColour;
-                boolean result =  DFS(graph, visited, ele, 1-parentColour);
-                if(result ==  false) return false;
-            }
-            else{
-                if(visited[ele] == parentColour) return false;
-            }
+         
+        for(int j = 0; j<graph[i].length; j++){
+            int ele = graph[i][j];
+           if(visited[ele] == -1){
+             boolean result = false;
+             if(visited[i] == 0) result =  DFS(graph, visited, ele, 1);
+             else result =  DFS(graph, visited, ele, 0);
+             if(result == false) return false;
+           }
+
+           else{
+            if(visited[i] == visited[ele]) return false;
+           }
         }
         return true;
     }
-    
     public boolean isBipartite(int[][] graph) {
         int n = graph.length;
         int[] visited = new int[n];
@@ -127,3 +90,40 @@ class Solution {
          return true;
     }
 }
+
+
+
+
+
+// class Solution {
+//     public boolean DFS(int[][] graph, int[] visited, int i, int colour){
+//         int n = visited.length;
+//         visited[i] = colour;
+//         int parentColour = colour;
+//         for(int ele : graph[i]){
+//             if(visited[ele] == -1){
+//                 visited[ele] = 1-parentColour;
+//                 boolean result =  DFS(graph, visited, ele, 1-parentColour);
+//                 if(result ==  false) return false;
+//             }
+//             else{
+//                 if(visited[ele] == parentColour) return false;
+//             }
+//         }
+//         return true;
+//     }
+    
+//     public boolean isBipartite(int[][] graph) {
+//         int n = graph.length;
+//         int[] visited = new int[n];
+//         Arrays.fill(visited, -1);
+
+//          for(int i = 0; i<n; i++){
+//             if(visited[i] == -1){
+//                 boolean result = DFS(graph, visited, i, 0);
+//                 if(result ==  false) return false;
+//             }
+//          }
+//          return true;
+//     }
+// }
