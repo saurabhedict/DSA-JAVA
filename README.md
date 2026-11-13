@@ -420,6 +420,7 @@ Learning DSA in java.
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -570,6 +571,7 @@ Learning DSA in java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -682,6 +684,7 @@ Learning DSA in java.
 | [0210-course-schedule-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -697,8 +700,17 @@ Learning DSA in java.
 | ------- |
 | [0207-course-schedule](https://github.com/saurabhedict/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saurabhedict/DSA-JAVA/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
