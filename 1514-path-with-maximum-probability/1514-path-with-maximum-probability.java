@@ -10,7 +10,7 @@
 
 //      @Override
 //      public int compareTo(Pair p) {
-//         return Double.compare(p.prob, this.prob); // Max Heap
+//         return Double.compare(this.prob, p.prob); // Min Heap
 //      }
 //     }
 //     public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
@@ -46,7 +46,6 @@
 // }
 
 
-
 class Solution {
    public class Pair implements Comparable<Pair> {
      int node;
@@ -75,7 +74,7 @@ class Solution {
             adj.get(destination).add(new Pair(initial, prob));
         }
         pq.add(new Pair(start_node, 1));
-        Arrays.fill(dist, Integer.MIN_VALUE);
+        Arrays.fill(dist, 0.0);
         dist[start_node] = 1;
 
         while(!pq.isEmpty()){
@@ -89,7 +88,6 @@ class Solution {
               
            }
         }
-        if(dist[end_node] == Integer.MIN_VALUE) return 0;
         return dist[end_node];
 
     }
