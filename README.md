@@ -180,6 +180,7 @@ Learning DSA in java.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhedict/DSA-JAVA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saurabhedict/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
@@ -419,6 +420,7 @@ Learning DSA in java.
 | [0543-diameter-of-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
@@ -570,6 +572,7 @@ Learning DSA in java.
 | [0226-invert-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
@@ -683,6 +686,7 @@ Learning DSA in java.
 | [0207-course-schedule](https://github.com/saurabhedict/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
@@ -713,4 +717,12 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
