@@ -67,6 +67,7 @@ Learning DSA in java.
 | [1480-running-sum-of-1d-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -186,6 +187,7 @@ Learning DSA in java.
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1405-longest-happy-string) |
+| [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 | [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 ## Greedy
 |  |
@@ -690,6 +692,7 @@ Learning DSA in java.
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -721,8 +724,10 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
