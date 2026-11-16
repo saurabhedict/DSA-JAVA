@@ -86,7 +86,7 @@ class Solution {
 
         while(!pq.isEmpty()){
            Pair top = pq.remove();
-           if(top.time > dist[top.node]) continue;
+           if(top.time > dist[top.node]) continue; //dry run and understand it.
            for(Pair ele : adj.get(top.node)){
               int totalTime = top.time+ele.time;
               if(dist[ele.node] > totalTime){
