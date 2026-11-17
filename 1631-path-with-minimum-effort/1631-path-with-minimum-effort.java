@@ -29,7 +29,6 @@ class Solution {
                 if(i < row-1)adj.get(count).add(new Pair(count+col, Math.abs(height[i][j]-height[i+1][j])));//down
                 if(j > 0)adj.get(count).add(new Pair(count-1, Math.abs(height[i][j]-height[i][j-1])));//left
                 if(j < col-1)adj.get(count).add(new Pair(count+1, Math.abs(height[i][j]-height[i][j+1])));//right
-                adj.get(count).add(new Pair(count, 0));//right
                 count++;
             }
         }
@@ -37,6 +36,7 @@ class Solution {
         int n =  row*col;
         int[] dist = new int[n]; // 0 ---> n-1
         Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[0] = 0;
         
         PriorityQueue<Pair> pq = new PriorityQueue<>(); //min heap
         pq.add(new Pair(0, 0));
