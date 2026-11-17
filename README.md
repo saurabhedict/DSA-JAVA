@@ -69,6 +69,7 @@ Learning DSA in java.
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhedict/DSA-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabhedict/DSA-JAVA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhedict/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/saurabhedict/DSA-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -111,6 +112,7 @@ Learning DSA in java.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhedict/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhedict/DSA-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/saurabhedict/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhedict/DSA-JAVA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
@@ -188,6 +190,7 @@ Learning DSA in java.
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/1405-longest-happy-string) |
 | [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/saurabhedict/DSA-JAVA/tree/master/1834-single-threaded-cpu) |
 ## Greedy
 |  |
@@ -431,6 +434,7 @@ Learning DSA in java.
 | [1325-delete-leaves-with-a-given-value](https://github.com/saurabhedict/DSA-JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -527,6 +531,7 @@ Learning DSA in java.
 | [0085-maximal-rectangle](https://github.com/saurabhedict/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/saurabhedict/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0427-construct-quad-tree) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -579,6 +584,7 @@ Learning DSA in java.
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -681,6 +687,7 @@ Learning DSA in java.
 | [0200-number-of-islands](https://github.com/saurabhedict/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/saurabhedict/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -730,4 +737,5 @@ Learning DSA in java.
 | ------- |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/saurabhedict/DSA-JAVA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
