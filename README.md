@@ -185,6 +185,7 @@ Learning DSA in java.
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabhedict/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/saurabhedict/DSA-JAVA/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saurabhedict/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabhedict/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/saurabhedict/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/saurabhedict/DSA-JAVA/tree/master/1094-car-pooling) |
@@ -234,6 +235,7 @@ Learning DSA in java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhedict/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saurabhedict/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/saurabhedict/DSA-JAVA/tree/master/0337-house-robber-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saurabhedict/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/saurabhedict/DSA-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhedict/DSA-JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/saurabhedict/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -427,6 +429,7 @@ Learning DSA in java.
 | [0572-subtree-of-another-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saurabhedict/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/saurabhedict/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
@@ -581,6 +584,7 @@ Learning DSA in java.
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saurabhedict/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/saurabhedict/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -697,6 +701,7 @@ Learning DSA in java.
 | [0547-number-of-provinces](https://github.com/saurabhedict/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saurabhedict/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saurabhedict/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/saurabhedict/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/saurabhedict/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
@@ -731,6 +736,7 @@ Learning DSA in java.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/saurabhedict/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saurabhedict/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/saurabhedict/DSA-JAVA/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
