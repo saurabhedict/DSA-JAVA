@@ -23,6 +23,7 @@ class Solution {
         }
         
         public int compareTo(Triplet p){
+            if(this.stops == p.stops) return Integer.compare(this.cost, p.cost);
             return Integer.compare(this.stops, p.stops);
         }
     }
@@ -48,7 +49,6 @@ class Solution {
             int sorce = top.node;
             int initialCost = top.cost;
             int initialStops = top.stops;
-            // if(sorce == dst) return initialCost;
             if(initialStops >= k+1) continue;
             for(Pair ele : adj.get(sorce)){
                 int totalCost = initialCost + ele.cost;
